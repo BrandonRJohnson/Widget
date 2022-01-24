@@ -1,4 +1,5 @@
 **React course widget project**
+
 **Source of Project**
 This project was done as a part of a Udemy course. Course can be found here: https://www.udemy.com/course/react-redux/
 
